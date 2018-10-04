@@ -1,4 +1,4 @@
-proyect has done with:
+project has been done with:
   
   React
   React-block-ui : https://availity.github.io/react-block-ui/components/blockui/
